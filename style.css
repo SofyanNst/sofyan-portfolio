@@ -1,0 +1,11 @@
+.kotak{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(81, 131, 232);
+}
+
+.kotak-biru{
+    width: 100px;
+    height: 100px;
+    /* background-color: rgb(81, 131, 232); */
+}
